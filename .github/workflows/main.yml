@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
   repository_dispatch:
-    types: workscript_8474_00
+    types: nodescript_workflow
 
 jobs:
   build-deploy:
