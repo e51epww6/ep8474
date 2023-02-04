@@ -1,7 +1,7 @@
-slv_node_runs_runs=no
+slv_node_runs_runs=yes
 slv_node_work_naid=node8474
-slv_node_work_name=fv-az736-959
-slv_node_ipv4_eth0=10.1.0.249
-slv_node_ipv4_ztc2=10.88.90.86
-slv_node_star_time=1675463017
+slv_node_work_name=fv-az180-267
+slv_node_ipv4_eth0=10.1.156.1
+slv_node_ipv4_ztc2=10.88.90.42
+slv_node_star_time=1675478614
 slv_node_work_disk=/home/runner/work/ep8474/ep8474
